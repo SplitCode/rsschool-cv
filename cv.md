@@ -28,3 +28,16 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 * JavaScript Basics
 * Git, GitHub
 * VS Code
+
+## Code example:
+
+## Work Experience:
+
+* **[TimingWeb](https://timingweb.com/)** - Project Manager
+
+* **Agency of Creative Programs** - Lead Project Manager
+
+## Educations:
+* **Siberian Federal University (SibFU).** School of Philology and Language Communication (Translator in the Field of professional Communication)  
+
+* **Siberian Federal University (SibFU).** School of Physical Education, Sport and Tourism. (Specialist in physical culture and sports.)
