@@ -1,1 +1,1 @@
-https://splitcode.github.io/CV_Natalia_Bandurova/
+https://splitcode.github.io/CV_Natalia_Bandurova/ (EN)
