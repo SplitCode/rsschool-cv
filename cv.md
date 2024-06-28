@@ -50,7 +50,7 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 
 ## Work Experience:
 
-- **[TimingWeb](https://timingweb.com/)** - Project Manager
+- **TimingWeb** - Project Manager
 
 - **Agency of Creative Programs** - Lead Project Manager
 
