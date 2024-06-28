@@ -45,7 +45,8 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
     default:
       throw new Error(`Unknown extension: '${format}'.`);
   }
-};```
+};
+```
 
 ## Work Experience:
 
