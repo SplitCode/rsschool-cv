@@ -20,3 +20,11 @@ My priorities as a beginner web developer include:
 5. Collaboration and Networking
 
 Overall, as a budding web developer, my enthusiasm for learning and exploring new concepts and technologies drives me to constantly enhance my skills and contribute to the dynamic world of web development.
+
+## Skills and Proficiency:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git, GitHub
+- VS Code
