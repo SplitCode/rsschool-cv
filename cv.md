@@ -31,7 +31,7 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 
 ## Code example:
 
-````const parse = (format, data) => {
+`````const parse = (format, data) => {
   switch (format) {
     case 'json':
       try {
@@ -45,7 +45,7 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
     default:
       throw new Error(`Unknown extension: '${format}'.`);
   }
-};```
+};````
 
 ## Work Experience:
 
@@ -68,4 +68,4 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 
 - English: Intermediate
 - Russian: Native
-````
+`````
