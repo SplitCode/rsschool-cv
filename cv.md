@@ -29,6 +29,24 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 - Git, GitHub
 - VS Code
 
+## Code example:
+
+````const parse = (format, data) => {
+  switch (format) {
+    case 'json':
+      try {
+        return JSON.parse(data);
+      } catch (error) {
+        throw new Error('Invalid JSON');
+      }
+    case 'yml':
+    case 'yaml':
+      return yaml.load(data);
+    default:
+      throw new Error(`Unknown extension: '${format}'.`);
+  }
+};```
+
 ## Work Experience:
 
 - **[TimingWeb](https://timingweb.com/)** - Project Manager
@@ -50,3 +68,4 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 
 - English: Intermediate
 - Russian: Native
+````
