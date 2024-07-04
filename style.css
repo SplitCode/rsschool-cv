@@ -51,6 +51,7 @@ body {
 
 .nav-list {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   list-style: none;
@@ -195,6 +196,10 @@ span.right {
   margin-left: 26px;
 }
 
+.code {
+  font-family: Montserrat, sans-serif;
+}
+
 .footer {
   padding: 20px;
   background: #76bbc4;
@@ -228,5 +233,21 @@ span.right {
   }
   .non-border-education {
     border-bottom: 1px solid #a8aeae;
+  }
+
+  .profile {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .github-icon-text {
+    display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .profile-title-h1 {
+    font-size: 32px;
   }
 }
