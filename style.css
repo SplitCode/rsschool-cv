@@ -194,3 +194,39 @@ span.right {
   color: initial;
   margin-left: 26px;
 }
+
+.footer {
+  padding: 20px;
+  background: #76bbc4;
+  font-size: 22px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 20px;
+  color: #fff;
+}
+
+.footer-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.github-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 15px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+  .non-border-education {
+    border-bottom: 1px solid #a8aeae;
+  }
+}
